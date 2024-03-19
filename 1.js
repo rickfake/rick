@@ -32,7 +32,7 @@ const py996 = {};
 const py997 = JSON.parse(typeof $response != "undefined" && $response.body || null);
 
 const name = "grow.pro";
-const appid = "grow_1y_128";
+const appid = "grow_lifetime";
 
   
 if (typeof $response == "undefined") {
