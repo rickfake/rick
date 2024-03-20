@@ -31,8 +31,8 @@ hostname = api.revenuecat.com
 const py996 = {};
 const py997 = JSON.parse(typeof $response != "undefined" && $response.body || null);
 
-const name = "pro";
-const appid = "com.gsdyx.StarDiary.nonConsumable.forever";
+const name = "Entitlement.Pro";
+const appid = "tech.miidii.offscreen.pro";
 
   
 if (typeof $response == "undefined") {
