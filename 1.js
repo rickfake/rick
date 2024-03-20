@@ -31,8 +31,8 @@ hostname = api.revenuecat.com
 const py996 = {};
 const py997 = JSON.parse(typeof $response != "undefined" && $response.body || null);
 
-const name = "Entitlement.Pro";
-const appid = "tech.miidii.MDClock.cp";
+const name = "premium";
+const appid = "servercat_premium_universal";
 
   
 if (typeof $response == "undefined") {
