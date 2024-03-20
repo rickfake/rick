@@ -31,8 +31,8 @@ hostname = api.revenuecat.com
 const py996 = {};
 const py997 = JSON.parse(typeof $response != "undefined" && $response.body || null);
 
-const name = "grow.pro";
-const appid = "grow_3699_lifetime";
+const name = "Entitlement.Pro";
+const appid = "tech.miidii.MDClock.cp";
 
   
 if (typeof $response == "undefined") {
