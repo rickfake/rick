@@ -31,8 +31,8 @@ hostname = api.revenuecat.com
 const py996 = {};
 const py997 = JSON.parse(typeof $response != "undefined" && $response.body || null);
 
-const name = "vip";
-const appid = "card_vip";
+const name = "grow.pro";
+const appid = "grow_1y_128";
 
   
 if (typeof $response == "undefined") {
