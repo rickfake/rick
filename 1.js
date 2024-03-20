@@ -31,8 +31,8 @@ hostname = api.revenuecat.com
 const py996 = {};
 const py997 = JSON.parse(typeof $response != "undefined" && $response.body || null);
 
-const name = "premium";
-const appid = "servercat_premium_universal";
+const name = "";
+const appid = "opencat.cloud.annual";
 
   
 if (typeof $response == "undefined") {
